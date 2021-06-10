@@ -1,1 +1,1 @@
-trying to understang git workflow
+trying to understang github workflow

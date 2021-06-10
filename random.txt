@@ -1,0 +1,2 @@
+not just some some random txt.
+Working with merge conflict.

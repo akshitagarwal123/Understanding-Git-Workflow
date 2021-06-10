@@ -1,2 +1,6 @@
+
 not just some random txt.
-creating merge conflicts.
+Working with merge conflict.
+Lets see conflict happen or not.
+
+
